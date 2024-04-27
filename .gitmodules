@@ -1,3 +1,6 @@
 [submodule "typography-css-library"]
 	path = typography-css-library
 	url = https://github.com/pslib-cz/2019l4web-typography-css-library-filipditrich
+[submodule "monium-www"]
+	path = monium-www
+	url = https://github.com/filipditrich/monium-www
